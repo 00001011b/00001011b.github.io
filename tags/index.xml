@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on 落魄山</title>
+    <link>https://00001011b.github.io/tags/</link>
+    <description>Recent content in Tags on 落魄山</description>
+    <image>
+      <url>https://00001011b.github.io/images/author.jpg</url>
+      <link>https://00001011b.github.io/images/author.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 14 May 2022 22:18:16 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>问心</title>
+      <link>https://00001011b.github.io/tags/%E9%97%AE%E5%BF%83/</link>
+      <pubDate>Sat, 14 May 2022 22:18:16 +0800</pubDate>
+      
+      <guid>https://00001011b.github.io/tags/%E9%97%AE%E5%BF%83/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

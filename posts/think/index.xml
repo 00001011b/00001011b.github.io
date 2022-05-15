@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>落魄山</title>
+    <link>https://00001011b.github.io/posts/think/</link>
+    <description>Recent content on 落魄山</description>
+    <image>
+      <url>https://00001011b.github.io/images/author.jpg</url>
+      <link>https://00001011b.github.io/images/author.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 14 May 2022 22:18:16 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/posts/think/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>问心局一</title>
+      <link>https://00001011b.github.io/posts/think/%E9%97%AE%E5%BF%83%E5%B1%80%E4%B8%80/</link>
+      <pubDate>Sat, 14 May 2022 22:18:16 +0800</pubDate>
+      
+      <guid>https://00001011b.github.io/posts/think/%E9%97%AE%E5%BF%83%E5%B1%80%E4%B8%80/</guid>
+      <description>问心局 其实像我这样的人，是长期处于问心局当中的，大众说法是精神内耗，有一部分人会将之美化为“自我的过于善良”，无论哪一种说法，个人认为都是心境上的无法自洽。因此我将完成心境自洽的过程称为：问心局。
+长期处于心境是的自我矛盾中，会对生活有着毁灭性的影响。到老了估计只能发出“老大徒伤悲”之类的感叹。因此，过上正确的生活，就是完成问心局的首要目的。
+美国生物学家及教育家 David Starr Jordan 说得好：
+ 没有正确的生活，就没有卓越的人生。
+ 正确的生活，是需要正确的规划，以及耐心且勇敢地执行。科维说：
+ 我真心地希望你能打开自己的“改变之门”，在学习这些习惯的过程中不断成长和进步。对自己的改变要有耐心，因为自我成长是神圣的，同时也是脆弱的，是人生中最大的投资。虽然这需要长时间下功夫，但是必定会有鼓舞人心的可喜成效。
+ 可见，问心局是漫长的，甚至是终身的。《剑来》里陈平安在书简湖完成问心局（自然付出了极大的代价），希望我也能在我的小江湖里完成问心局。
+ 四个天赋 完成问心局，需要利用人类特有的四个天赋。这四个天赋分别是：
+ 自我意识（self-awareness），即思考自己的思维过程的能力； 想象力（Imagination），即超越当前现实而在头脑中进行创造的能力； 良知（Conscience），即明辨是非，坚持行为原则，判断思想、言行正确与否的能力； 独立意志（Independent Will），即基于自我意识、不受外力影响而自行其是的能力。  怎么使用这四个天赋，每个人都有自己的见解，继而形成各人的人格。
+ 重装系统以及系统备份 “遇事不决，重装系统”是我从小学就养成的习惯了。不过小时候的重装系统是一学期没学到东西却妄想利用寒暑假把之前漏的知识狂补回来。如今重装系统是真的物理意义上的重装系统。某种意义上，重装系统对我个人来说有点像是打王者投降认输重新来一局。
+重装系统 本来的我的电脑里装着Windows 10，Windows 11 和 manjaro。实际上我就是使用Windows 11 配合着 wls，这么做的后果是我的磁盘管理非常的凌乱。
+我的电脑里一共有四块硬盘：
+ 256G 的三星 970 plus 固态。（全做系统C盘了，因为里面有wls子系统，因此把磁盘做大点） 512G 的凯侠固态。（分成两个分区，D盘存开发资料，E盘存软件数据） 512G 的闪迪固态。（分成两个分区，F盘存工作资料，G盘存生活资料） 1T 的西数机械硬盘。（分成3个分区，H盘存媒体资料，I盘存backup资料，J盘存电影）  系统备份 利用微PE将系统盘备份，然后上传百度云盘以及本地存储在I盘。
+ 重启博客 写博客是我从大一就开始笃定要干一辈子的事情。为了写博客我尝试了很多方案。时间一晃就过去了几年，依旧没把这件事情做好😒。
+目前我的博客方案：hugo+PaperMod。把public目录部署至GitHub公开repo。把 content 相关信息备份到私密 repo 以方便随时恢复。
+因为我是利用wsl（ubuntu 18.05）部署的，而且发现ubuntu的包管理器里的hugo万年不更新。因此我就直接下载golang和hugo的源码直接编译了。在编译的过程中，我发现了网络问题令人无比抓狂，最后通过国内源解决。
+ 重新收拾房间 太久没有收拾房间导致房间的历史包袱有点重，只是简单的清扫已经无法满足我内心的要求了：老是觉得没扫干净。
+因此一次彻底的布局管理以及大清扫是免不了的。
+ 对时间重新规划 通过回忆，我发现我已经彻底成为时间的奴隶了，有空没空我的脑海里面就会冒出“白驹过隙，时光蹉跎”之类的成语😥。</description>
+    </item>
+    
+  </channel>
+</rss>
