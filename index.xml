@@ -9,7 +9,20 @@
       <link>https://00001011b.github.io/images/author.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 14 May 2022 22:18:16 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh</language>
+    <lastBuildDate>Mon, 16 May 2022 17:05:02 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022年TODO</title>
+      <link>https://00001011b.github.io/posts/tech/2022%E5%B9%B4todo/</link>
+      <pubDate>Mon, 16 May 2022 17:05:02 +0800</pubDate>
+      
+      <guid>https://00001011b.github.io/posts/tech/2022%E5%B9%B4todo/</guid>
+      <description>待完成   新增说说模式：取代朋友圈。2022/5/16
+  将 QQ 空间的说说迁移到博客： 我的中二时代总得有个归宿。2022/5/16
+  新增 TODO 模式。2022/5/16
+  </description>
+    </item>
+    
     <item>
       <title>问心局一</title>
       <link>https://00001011b.github.io/posts/think/%E9%97%AE%E5%BF%83%E5%B1%80%E4%B8%80/</link>

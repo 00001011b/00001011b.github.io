@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://00001011b.github.io/posts/tech/2022%E5%B9%B4todo/</loc>
+    <lastmod>2022-05-16T17:05:02+08:00</lastmod>
+  </url><url>
+    <loc>https://00001011b.github.io/posts/</loc>
+    <lastmod>2022-05-16T17:05:02+08:00</lastmod>
+  </url><url>
+    <loc>https://00001011b.github.io/</loc>
+    <lastmod>2022-05-16T17:05:02+08:00</lastmod>
+  </url><url>
+    <loc>https://00001011b.github.io/posts/tech/</loc>
+    <lastmod>2022-05-16T17:05:02+08:00</lastmod>
+  </url><url>
     <loc>https://00001011b.github.io/posts/think/</loc>
     <lastmod>2022-05-14T22:18:16+08:00</lastmod>
   </url><url>
     <loc>https://00001011b.github.io/categories/</loc>
     <lastmod>2022-05-14T22:18:16+08:00</lastmod>
   </url><url>
-    <loc>https://00001011b.github.io/posts/</loc>
-    <lastmod>2022-05-14T22:18:16+08:00</lastmod>
-  </url><url>
     <loc>https://00001011b.github.io/tags/</loc>
     <lastmod>2022-05-14T22:18:16+08:00</lastmod>
   </url><url>
     <loc>https://00001011b.github.io/categories/%E6%80%9D%E6%83%B3/</loc>
-    <lastmod>2022-05-14T22:18:16+08:00</lastmod>
-  </url><url>
-    <loc>https://00001011b.github.io/</loc>
     <lastmod>2022-05-14T22:18:16+08:00</lastmod>
   </url><url>
     <loc>https://00001011b.github.io/tags/%E9%97%AE%E5%BF%83/</loc>
@@ -37,7 +43,5 @@
     <loc>https://00001011b.github.io/posts/life/</loc>
   </url><url>
     <loc>https://00001011b.github.io/posts/year/</loc>
-  </url><url>
-    <loc>https://00001011b.github.io/posts/tech/</loc>
   </url>
 </urlset>
