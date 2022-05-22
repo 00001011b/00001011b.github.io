@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://00001011b.github.io/posts/tech/2022%E5%B9%B4todo/</loc>
-    <lastmod>2022-05-16T17:05:02+08:00</lastmod>
+    <loc>https://00001011b.github.io/posts/talk/</loc>
+    <lastmod>2022-05-22T19:51:57+08:00</lastmod>
   </url><url>
     <loc>https://00001011b.github.io/posts/</loc>
-    <lastmod>2022-05-16T17:05:02+08:00</lastmod>
+    <lastmod>2022-05-22T19:51:57+08:00</lastmod>
   </url><url>
     <loc>https://00001011b.github.io/</loc>
+    <lastmod>2022-05-22T19:51:57+08:00</lastmod>
+  </url><url>
+    <loc>https://00001011b.github.io/posts/talk/%E9%99%B7%E9%98%B1%E5%AD%A6%E4%B9%A0%E6%BC%A9%E6%B6%A1/</loc>
+    <lastmod>2022-05-22T19:51:57+08:00</lastmod>
+  </url><url>
+    <loc>https://00001011b.github.io/posts/tech/2022%E5%B9%B4todo/</loc>
     <lastmod>2022-05-16T17:05:02+08:00</lastmod>
   </url><url>
     <loc>https://00001011b.github.io/posts/tech/</loc>
@@ -17,13 +23,7 @@
     <loc>https://00001011b.github.io/posts/think/</loc>
     <lastmod>2022-05-14T22:18:16+08:00</lastmod>
   </url><url>
-    <loc>https://00001011b.github.io/categories/</loc>
-    <lastmod>2022-05-14T22:18:16+08:00</lastmod>
-  </url><url>
     <loc>https://00001011b.github.io/tags/</loc>
-    <lastmod>2022-05-14T22:18:16+08:00</lastmod>
-  </url><url>
-    <loc>https://00001011b.github.io/categories/%E6%80%9D%E6%83%B3/</loc>
     <lastmod>2022-05-14T22:18:16+08:00</lastmod>
   </url><url>
     <loc>https://00001011b.github.io/tags/%E9%97%AE%E5%BF%83/</loc>
@@ -38,10 +38,10 @@
     <loc>https://00001011b.github.io/archives/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://00001011b.github.io/posts/health/</loc>
-  </url><url>
     <loc>https://00001011b.github.io/posts/life/</loc>
   </url><url>
     <loc>https://00001011b.github.io/posts/year/</loc>
+  </url><url>
+    <loc>https://00001011b.github.io/posts/todos/</loc>
   </url>
 </urlset>

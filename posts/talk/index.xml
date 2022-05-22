@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>落魄山</title>
+    <link>https://00001011b.github.io/posts/talk/</link>
+    <description>Recent content on 落魄山</description>
+    <image>
+      <url>https://00001011b.github.io/images/author.jpg</url>
+      <link>https://00001011b.github.io/images/author.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 22 May 2022 19:51:57 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/posts/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>陷阱学习漩涡</title>
+      <link>https://00001011b.github.io/posts/talk/%E9%99%B7%E9%98%B1%E5%AD%A6%E4%B9%A0%E6%BC%A9%E6%B6%A1/</link>
+      <pubDate>Sun, 22 May 2022 19:51:57 +0800</pubDate>
+      
+      <guid>https://00001011b.github.io/posts/talk/%E9%99%B7%E9%98%B1%E5%AD%A6%E4%B9%A0%E6%BC%A9%E6%B6%A1/</guid>
+      <description>好不容易等到个周末，周五傍晚便列好了 todos 打算在周末的时候完成，并且在朋友圈公布了要放弃使用朋友圈，现在是周日晚上八点，我还没有完成任何一个to</description>
+    </item>
+    
+  </channel>
+</rss>
