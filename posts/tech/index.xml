@@ -9,6 +9,16 @@
       <link>https://00001011b.github.io/images/author.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language><atom:link href="https://00001011b.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh</language>
+    <lastBuildDate>Fri, 27 May 2022 07:45:46 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>说说模式规划</title>
+      <link>https://00001011b.github.io/posts/tech/%E8%AF%B4%E8%AF%B4%E6%A8%A1%E5%BC%8F%E8%A7%84%E5%88%92/</link>
+      <pubDate>Fri, 27 May 2022 07:45:46 +0800</pubDate>
+      
+      <guid>https://00001011b.github.io/posts/tech/%E8%AF%B4%E8%AF%B4%E6%A8%A1%E5%BC%8F%E8%A7%84%E5%88%92/</guid>
+      <description>说说模式的主要目的是取代 qq 空间、朋友圈、微博、微信。 在 BluePrint 阶段，由于“说说本身的简短性”，我一直在思考是将所有说说放在同一个文件夹里，按年来分</description>
+    </item>
+    
   </channel>
 </rss>
