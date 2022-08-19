@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 11 Jul 2022 23:57:33 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Aug 2022 14:36:06 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20220819</title>
+      <link>https://00001011b.github.io/talk/20220819/</link>
+      <pubDate>Fri, 19 Aug 2022 14:36:06 +0800</pubDate>
+      
+      <guid>https://00001011b.github.io/talk/20220819/</guid>
+      <description>一眨眼又一个月过去了。最终还是忍不住买了一台新的笔记本。因此我现在拥有了两台电脑了！😎😎😎 当然最近也在学习。发现了一本非常好的书：x86汇编</description>
+    </item>
+    
+    <item>
+      <title>Hugo安装，使用，及恢复</title>
+      <link>https://00001011b.github.io/posts/tech/hugo%E5%AE%89%E8%A3%85%E7%BB%B4%E6%8A%A4%E5%8F%8A%E6%81%A2%E5%A4%8D/</link>
+      <pubDate>Fri, 19 Aug 2022 13:21:53 +0800</pubDate>
+      
+      <guid>https://00001011b.github.io/posts/tech/hugo%E5%AE%89%E8%A3%85%E7%BB%B4%E6%8A%A4%E5%8F%8A%E6%81%A2%E5%A4%8D/</guid>
+      <description>如题，本文分成三个部分来撰写。 一、安装 因为 hugo 依赖于 golang，因此，在安装 hugo 之前，先要安装 golang。以下是安装 golang 的步骤。 从官网下载对应</description>
+    </item>
+    
     <item>
       <title>20220711</title>
       <link>https://00001011b.github.io/talk/20220711/</link>
