@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://00001011b.github.io/posts/life/</loc>
+    <lastmod>2022-08-22T23:09:49+08:00</lastmod>
+  </url><url>
     <loc>https://00001011b.github.io/posts/</loc>
     <lastmod>2022-08-22T23:09:49+08:00</lastmod>
   </url><url>
-    <loc>https://00001011b.github.io/posts/lift/%E7%97%85%E5%90%8E%E5%B0%8F%E8%AE%B0/</loc>
+    <loc>https://00001011b.github.io/posts/life/%E7%97%85%E5%90%8E%E5%B0%8F%E8%AE%B0/</loc>
     <lastmod>2022-08-22T23:09:49+08:00</lastmod>
   </url><url>
     <loc>https://00001011b.github.io/</loc>
@@ -94,8 +97,6 @@
   </url><url>
     <loc>https://00001011b.github.io/archives/</loc>
     <priority>0</priority>
-  </url><url>
-    <loc>https://00001011b.github.io/posts/life/</loc>
   </url><url>
     <loc>https://00001011b.github.io/posts/year/</loc>
   </url><url>
