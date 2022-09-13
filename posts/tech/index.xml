@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 19 Aug 2022 13:21:53 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Sep 2022 11:14:58 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Excel计算周岁</title>
+      <link>https://00001011b.github.io/posts/tech/excel%E8%AE%A1%E7%AE%97%E5%91%A8%E5%B2%81/</link>
+      <pubDate>Tue, 13 Sep 2022 11:14:58 +0800</pubDate>
+      
+      <guid>https://00001011b.github.io/posts/tech/excel%E8%AE%A1%E7%AE%97%E5%91%A8%E5%B2%81/</guid>
+      <description>计算周岁时，并不是简单地用当前年份减去出生年份，而是要考虑到年、月和日三方面的因素。也就是很多人说的，生日还没到，还没满18岁。😁 日期格式 因</description>
+    </item>
+    
     <item>
       <title>Hugo安装，使用，及恢复</title>
       <link>https://00001011b.github.io/posts/tech/hugo%E5%AE%89%E8%A3%85%E7%BB%B4%E6%8A%A4%E5%8F%8A%E6%81%A2%E5%A4%8D/</link>
