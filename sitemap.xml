@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://00001011b.github.io/talk/</loc>
+    <lastmod>2022-09-17T11:10:54+08:00</lastmod>
+  </url><url>
+    <loc>https://00001011b.github.io/talk/20220917/</loc>
+    <lastmod>2022-09-17T11:10:54+08:00</lastmod>
+  </url><url>
+    <loc>https://00001011b.github.io/</loc>
+    <lastmod>2022-09-17T11:10:54+08:00</lastmod>
+  </url><url>
     <loc>https://00001011b.github.io/posts/tech/</loc>
     <lastmod>2022-09-13T11:14:58+08:00</lastmod>
   </url><url>
@@ -16,12 +25,6 @@
   </url><url>
     <loc>https://00001011b.github.io/tags/</loc>
     <lastmod>2022-09-13T11:14:58+08:00</lastmod>
-  </url><url>
-    <loc>https://00001011b.github.io/</loc>
-    <lastmod>2022-09-13T11:14:58+08:00</lastmod>
-  </url><url>
-    <loc>https://00001011b.github.io/talk/</loc>
-    <lastmod>2022-09-10T23:51:57+08:00</lastmod>
   </url><url>
     <loc>https://00001011b.github.io/talk/20220910/</loc>
     <lastmod>2022-09-10T23:51:57+08:00</lastmod>
