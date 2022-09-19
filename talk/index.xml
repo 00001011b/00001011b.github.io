@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 17 Sep 2022 11:10:54 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Sep 2022 22:25:10 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20220919</title>
+      <link>https://00001011b.github.io/talk/20220919/</link>
+      <pubDate>Mon, 19 Sep 2022 22:25:10 +0800</pubDate>
+      
+      <guid>https://00001011b.github.io/talk/20220919/</guid>
+      <description>其实在学操作系统的时候我就意识到：我缺乏成熟的电路原理知识体系。 学习电路原理的时候我就意识到：我缺乏良好的微积分与线性代数背景。 如果这两道难</description>
+    </item>
+    
     <item>
       <title>20220917</title>
       <link>https://00001011b.github.io/talk/20220917/</link>
