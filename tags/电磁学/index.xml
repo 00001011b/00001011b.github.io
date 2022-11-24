@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>电磁学 on 落魄山</title>
+    <link>https://00001011b.github.io/tags/%E7%94%B5%E7%A3%81%E5%AD%A6/</link>
+    <description>Recent content in 电磁学 on 落魄山</description>
+    <image>
+      <url>https://00001011b.github.io/images/author.jpg</url>
+      <link>https://00001011b.github.io/images/author.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 24 Nov 2022 08:39:15 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/tags/%E7%94%B5%E7%A3%81%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>物理定律的内涵与外延</title>
+      <link>https://00001011b.github.io/posts/tech/%E7%89%A9%E7%90%86%E5%AE%9A%E5%BE%8B%E7%9A%84%E5%86%85%E6%B6%B5%E4%B8%8E%E5%A4%96%E5%BB%B6/</link>
+      <pubDate>Thu, 24 Nov 2022 08:39:15 +0800</pubDate>
+      
+      <guid>https://00001011b.github.io/posts/tech/%E7%89%A9%E7%90%86%E5%AE%9A%E5%BE%8B%E7%9A%84%E5%86%85%E6%B6%B5%E4%B8%8E%E5%A4%96%E5%BB%B6/</guid>
+      <description>学习物理的时候，应试教育将我我们的视野及思维牢牢钉死在物理公式上。事实上，物理定律是具备本身的内涵与外延的，如果不懂/不知道这些，学习物理定</description>
+    </item>
+    
+  </channel>
+</rss>
