@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://00001011b.github.io/posts/life/</loc>
+    <lastmod>2023-03-23T21:21:15+08:00</lastmod>
+  </url><url>
+    <loc>https://00001011b.github.io/posts/</loc>
+    <lastmod>2023-03-23T21:21:15+08:00</lastmod>
+  </url><url>
+    <loc>https://00001011b.github.io/posts/life/%E5%85%B3%E4%BA%8E%E6%97%A9%E7%9D%A1%E6%97%A9%E8%B5%B7/</loc>
+    <lastmod>2023-03-23T21:21:15+08:00</lastmod>
+  </url><url>
+    <loc>https://00001011b.github.io/</loc>
+    <lastmod>2023-03-23T21:21:15+08:00</lastmod>
+  </url><url>
     <loc>https://00001011b.github.io/talk/</loc>
     <lastmod>2023-03-16T23:18:03+08:00</lastmod>
   </url><url>
     <loc>https://00001011b.github.io/talk/20230316/</loc>
-    <lastmod>2023-03-16T23:18:03+08:00</lastmod>
-  </url><url>
-    <loc>https://00001011b.github.io/</loc>
     <lastmod>2023-03-16T23:18:03+08:00</lastmod>
   </url><url>
     <loc>https://00001011b.github.io/talk/20230306/</loc>
@@ -21,9 +30,6 @@
     <lastmod>2022-12-17T11:12:32+08:00</lastmod>
   </url><url>
     <loc>https://00001011b.github.io/posts/tech/</loc>
-    <lastmod>2022-11-24T08:39:15+08:00</lastmod>
-  </url><url>
-    <loc>https://00001011b.github.io/posts/</loc>
     <lastmod>2022-11-24T08:39:15+08:00</lastmod>
   </url><url>
     <loc>https://00001011b.github.io/tags/</loc>
@@ -85,9 +91,6 @@
   </url><url>
     <loc>https://00001011b.github.io/talk/20220824/</loc>
     <lastmod>2022-08-24T14:22:15+08:00</lastmod>
-  </url><url>
-    <loc>https://00001011b.github.io/posts/life/</loc>
-    <lastmod>2022-08-22T23:09:49+08:00</lastmod>
   </url><url>
     <loc>https://00001011b.github.io/posts/life/%E7%97%85%E5%90%8E%E5%B0%8F%E8%AE%B0/</loc>
     <lastmod>2022-08-22T23:09:49+08:00</lastmod>
