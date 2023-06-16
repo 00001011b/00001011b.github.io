@@ -1,0 +1,108 @@
+<!doctype html><html lang=zh dir=auto><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name=robots content="index, follow"><title>理解和区分C语言的structure和union | 落魄山</title><meta name=keywords content><meta name=description content="在C语言中，structure（结构体）和union（联合体）是用于组织和存储不同类型数据的方式。它们有相似之处，但也有一些关键的区别。 St"><meta name=author content="陈十一"><link rel=canonical href=https://00001011b.github.io/posts/tech/%E7%90%86%E8%A7%A3%E5%92%8C%E5%8C%BA%E5%88%86c%E8%AF%AD%E8%A8%80%E7%9A%84structure%E5%92%8Cunion/><link crossorigin=anonymous href=/assets/css/stylesheet.min.3dc5e5b28a604be4e081d755ce739fdc702f66cd1b13733d9c5c1d508cfa6e80.css integrity="sha256-PcXlsopgS+TggddVznOf3HAvZs0bE3M9nFwdUIz6boA=" rel="preload stylesheet" as=style><script defer crossorigin=anonymous src=/assets/js/highlight.min.b95bacdc39e37a332a9f883b1e78be4abc1fdca2bc1f2641f55e3cd3dabd4d61.js integrity="sha256-uVus3DnjejMqn4g7Hni+Srwf3KK8HyZB9V4809q9TWE=" onload=hljs.initHighlightingOnLoad()></script>
+<link rel=icon href=https://00001011b.github.io/images/author.jpg><link rel=icon type=image/png sizes=16x16 href=https://00001011b.github.io/%3Clink%20/%20abs%20url%3E><link rel=icon type=image/png sizes=32x32 href=https://00001011b.github.io/%3Clink%20/%20abs%20url%3E><link rel=apple-touch-icon href=https://00001011b.github.io/%3Clink%20/%20abs%20url%3E><link rel=mask-icon href=https://00001011b.github.io/%3Clink%20/%20abs%20url%3E><meta name=theme-color content="#2e2e33"><meta name=msapplication-TileColor content="#2e2e33"><noscript><style>#theme-toggle,.top-link{display:none}</style></noscript><meta property="og:title" content="理解和区分C语言的structure和union"><meta property="og:description" content="在C语言中，structure（结构体）和union（联合体）是用于组织和存储不同类型数据的方式。它们有相似之处，但也有一些关键的区别。 St"><meta property="og:type" content="article"><meta property="og:url" content="https://00001011b.github.io/posts/tech/%E7%90%86%E8%A7%A3%E5%92%8C%E5%8C%BA%E5%88%86c%E8%AF%AD%E8%A8%80%E7%9A%84structure%E5%92%8Cunion/"><meta property="og:image" content="https://00001011b.github.io/images/author.jpg"><meta property="article:section" content="posts"><meta property="article:published_time" content="2023-06-17T00:04:46+08:00"><meta property="article:modified_time" content="2023-06-17T00:04:46+08:00"><meta property="og:site_name" content="落魄山"><meta name=twitter:card content="summary_large_image"><meta name=twitter:image content="https://00001011b.github.io/images/author.jpg"><meta name=twitter:title content="理解和区分C语言的structure和union"><meta name=twitter:description content="在C语言中，structure（结构体）和union（联合体）是用于组织和存储不同类型数据的方式。它们有相似之处，但也有一些关键的区别。 St"><script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"https://00001011b.github.io/posts/"},{"@type":"ListItem","position":2,"name":"","item":"https://00001011b.github.io/posts/tech/"},{"@type":"ListItem","position":3,"name":"理解和区分C语言的structure和union","item":"https://00001011b.github.io/posts/tech/%E7%90%86%E8%A7%A3%E5%92%8C%E5%8C%BA%E5%88%86c%E8%AF%AD%E8%A8%80%E7%9A%84structure%E5%92%8Cunion/"}]}</script><script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"理解和区分C语言的structure和union","name":"理解和区分C语言的structure和union","description":"在C语言中，structure（结构体）和union（联合体）是用于组织和存储不同类型数据的方式。它们有相似之处，但也有一些关键的区别。 St","keywords":[],"articleBody":"在C语言中，structure（结构体）和union（联合体）是用于组织和存储不同类型数据的方式。它们有相似之处，但也有一些关键的区别。\nStructure（结构体）： 结构体是一种用户自定义的数据类型，可以将不同类型的变量组合在一起形成一个逻辑上相关的数据单元。结构体的成员可以是不同的数据类型，每个成员都有自己的名称和内存地址。结构体的各个成员在内存中是按照定义的顺序存储的，每个成员占据自己的内存空间。\n下面是一个示例，展示如何定义和使用结构体：\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 #include // 定义结构体 struct Person { char name[20]; int age; float height; }; int main() { // 创建结构体变量 struct Person person1; // 访问结构体成员并赋值 strcpy(person1.name, \"John\"); person1.age = 25; person1.height = 1.75; // 输出结构体成员的值 printf(\"Name: %s\\n\", person1.name); printf(\"Age: %d\\n\", person1.age); printf(\"Height: %.2f\\n\", person1.height); return 0; } 上述示例中，我们定义了一个名为 “Person” 的结构体，包含了名字、年龄和身高三个成员。在 main() 函数中，我们创建了一个名为 “person1” 的结构体变量，并通过成员访问操作符 . 分别对其成员进行赋值和访问。\nUnion（联合体）： 联合体也是一种用户自定义的数据类型，它允许在同一内存位置存储不同类型的数据，但每次只能使用其中的一个成员。联合体的所有成员共享同一块内存，它的大小由最大的成员决定。\n下面是一个示例，展示如何定义和使用联合体：\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 #include // 定义联合体 union Data { int num; float f; char str[20]; }; int main() { // 创建联合体变量 union Data data; // 对不同成员赋值 data.num = 10; printf(\"Num: %d\\n\", data.num); data.f = 3.14; printf(\"Float: %.2f\\n\", data.f); strcpy(data.str, \"Hello\"); printf(\"String: %s\\n\", data.str); return 0; } 上述示例中，我们定义了一个名为 “Data” 的联合体，包含了整型、浮点型和字符型三个成员。在 main() 函数中，我们创建了一个名为 “data” 的联合体变量，并分别对不同成员进行赋值和访问。需要注意的是，联合体的不同成员共享同一块内存，所以在给一个成员赋值后，其他成员的值会被覆盖。\n关键区别总结：\n结构体允许存储多个成员，每个成员都占据自己的内存空间。 联合体只能同时存储一个成员，所有成员共享同一块内存空间。 结构体适合用于表示相关但不同类型的数据集合，而联合体适合用于节省内存，同时只需存储一种类型的数据，或者在不同类型数据之间进行转换。\n","wordCount":"856","inLanguage":"zh","datePublished":"2023-06-17T00:04:46+08:00","dateModified":"2023-06-17T00:04:46+08:00","author":{"@type":"Person","name":"陈十一"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://00001011b.github.io/posts/tech/%E7%90%86%E8%A7%A3%E5%92%8C%E5%8C%BA%E5%88%86c%E8%AF%AD%E8%A8%80%E7%9A%84structure%E5%92%8Cunion/"},"publisher":{"@type":"Organization","name":"落魄山","logo":{"@type":"ImageObject","url":"https://00001011b.github.io/images/author.jpg"}}}</script><script src=/js/iconfont.js></script></head><body id=top><header class=header><nav class=nav><div class=logo><a href=https://00001011b.github.io/ accesskey=h title="落魄山 (Alt + H)"><img src=https://00001011b.github.io/images/author.jpg alt=logo aria-label=logo height=35>落魄山</a>
+<span class=logo-switches></span></div><ul id=menu><li><a href=https://00001011b.github.io/tags/ title=🍥标签><span>🍥标签</span></a></li><li><a href=https://00001011b.github.io/archives/ title=🍣时间轴><span>🍣时间轴</span></a></li><li><a href=https://00001011b.github.io/about/ title=🍚关于><span>🍚关于</span></a></li></ul></nav></header><main class=main><article class=post-single><header class=post-header><h1 class=post-title>理解和区分C语言的structure和union</h1><div class=post-meta><svg class="icon" aria-hidden="true"><use xlink:href="#icon-guanyuwomen"/></svg>&nbsp;<span>陈十一</span> &nbsp;&nbsp;&nbsp;<svg class="icon" aria-hidden="true"><use xlink:href="#icon-rili"/></svg>&nbsp;<span title='2023-06-17 00:04:46 +0800 +0800'>&nbsp;2023-06-17</span>&nbsp;&nbsp;&nbsp;<svg class="icon" aria-hidden="true"><use xlink:href="#icon-pinpaigushi"/></svg>&nbsp;856字&nbsp;&nbsp;&nbsp;<svg class="icon" aria-hidden="true"><use xlink:href="#icon-shijian"/></svg>: 2分钟</div></header><div class=post-content><p>在C语言中，structure（结构体）和union（联合体）是用于组织和存储不同类型数据的方式。它们有相似之处，但也有一些关键的区别。</p><p><strong>Structure（结构体）</strong>：
+结构体是一种用户自定义的数据类型，可以将不同类型的变量组合在一起形成一个逻辑上相关的数据单元。结构体的成员可以是不同的数据类型，每个成员都有自己的名称和内存地址。结构体的各个成员在内存中是按照定义的顺序存储的，每个成员占据自己的内存空间。</p><p>下面是一个示例，展示如何定义和使用结构体：</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span><span class=lnt>20
+</span><span class=lnt>21
+</span><span class=lnt>22
+</span><span class=lnt>23
+</span><span class=lnt>24
+</span><span class=lnt>25
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-c data-lang=c><span class=line><span class=cl><span class=cp>#include</span> <span class=cpf>&lt;stdio.h&gt;</span><span class=cp>
+</span></span></span><span class=line><span class=cl><span class=cp></span>
+</span></span><span class=line><span class=cl><span class=c1>// 定义结构体
+</span></span></span><span class=line><span class=cl><span class=c1></span><span class=k>struct</span> <span class=n>Person</span> <span class=p>{</span>
+</span></span><span class=line><span class=cl>    <span class=kt>char</span> <span class=n>name</span><span class=p>[</span><span class=mi>20</span><span class=p>];</span>
+</span></span><span class=line><span class=cl>    <span class=kt>int</span> <span class=n>age</span><span class=p>;</span>
+</span></span><span class=line><span class=cl>    <span class=kt>float</span> <span class=n>height</span><span class=p>;</span>
+</span></span><span class=line><span class=cl><span class=p>};</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=kt>int</span> <span class=nf>main</span><span class=p>()</span> <span class=p>{</span>
+</span></span><span class=line><span class=cl>    <span class=c1>// 创建结构体变量
+</span></span></span><span class=line><span class=cl><span class=c1></span>    <span class=k>struct</span> <span class=n>Person</span> <span class=n>person1</span><span class=p>;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>    <span class=c1>// 访问结构体成员并赋值
+</span></span></span><span class=line><span class=cl><span class=c1></span>    <span class=nf>strcpy</span><span class=p>(</span><span class=n>person1</span><span class=p>.</span><span class=n>name</span><span class=p>,</span> <span class=s>&#34;John&#34;</span><span class=p>);</span>
+</span></span><span class=line><span class=cl>    <span class=n>person1</span><span class=p>.</span><span class=n>age</span> <span class=o>=</span> <span class=mi>25</span><span class=p>;</span>
+</span></span><span class=line><span class=cl>    <span class=n>person1</span><span class=p>.</span><span class=n>height</span> <span class=o>=</span> <span class=mf>1.75</span><span class=p>;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>    <span class=c1>// 输出结构体成员的值
+</span></span></span><span class=line><span class=cl><span class=c1></span>    <span class=nf>printf</span><span class=p>(</span><span class=s>&#34;Name: %s</span><span class=se>\n</span><span class=s>&#34;</span><span class=p>,</span> <span class=n>person1</span><span class=p>.</span><span class=n>name</span><span class=p>);</span>
+</span></span><span class=line><span class=cl>    <span class=nf>printf</span><span class=p>(</span><span class=s>&#34;Age: %d</span><span class=se>\n</span><span class=s>&#34;</span><span class=p>,</span> <span class=n>person1</span><span class=p>.</span><span class=n>age</span><span class=p>);</span>
+</span></span><span class=line><span class=cl>    <span class=nf>printf</span><span class=p>(</span><span class=s>&#34;Height: %.2f</span><span class=se>\n</span><span class=s>&#34;</span><span class=p>,</span> <span class=n>person1</span><span class=p>.</span><span class=n>height</span><span class=p>);</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>    <span class=k>return</span> <span class=mi>0</span><span class=p>;</span>
+</span></span><span class=line><span class=cl><span class=p>}</span>
+</span></span></code></pre></td></tr></table></div></div><p>上述示例中，我们定义了一个名为 &ldquo;Person&rdquo; 的结构体，包含了名字、年龄和身高三个成员。在 <code>main()</code> 函数中，我们创建了一个名为 &ldquo;person1&rdquo; 的结构体变量，并通过成员访问操作符 <code>.</code> 分别对其成员进行赋值和访问。</p><hr><p><strong>Union（联合体）</strong>：
+联合体也是一种用户自定义的数据类型，它允许在同一内存位置存储不同类型的数据，但每次只能使用其中的一个成员。联合体的所有成员共享同一块内存，它的大小由最大的成员决定。</p><p>下面是一个示例，展示如何定义和使用联合体：</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span><span class=lnt>20
+</span><span class=lnt>21
+</span><span class=lnt>22
+</span><span class=lnt>23
+</span><span class=lnt>24
+</span><span class=lnt>25
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-c data-lang=c><span class=line><span class=cl><span class=cp>#include</span> <span class=cpf>&lt;stdio.h&gt;</span><span class=cp>
+</span></span></span><span class=line><span class=cl><span class=cp></span>
+</span></span><span class=line><span class=cl><span class=c1>// 定义联合体
+</span></span></span><span class=line><span class=cl><span class=c1></span><span class=k>union</span> <span class=n>Data</span> <span class=p>{</span>
+</span></span><span class=line><span class=cl>    <span class=kt>int</span> <span class=n>num</span><span class=p>;</span>
+</span></span><span class=line><span class=cl>    <span class=kt>float</span> <span class=n>f</span><span class=p>;</span>
+</span></span><span class=line><span class=cl>    <span class=kt>char</span> <span class=n>str</span><span class=p>[</span><span class=mi>20</span><span class=p>];</span>
+</span></span><span class=line><span class=cl><span class=p>};</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=kt>int</span> <span class=nf>main</span><span class=p>()</span> <span class=p>{</span>
+</span></span><span class=line><span class=cl>    <span class=c1>// 创建联合体变量
+</span></span></span><span class=line><span class=cl><span class=c1></span>    <span class=k>union</span> <span class=n>Data</span> <span class=n>data</span><span class=p>;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>    <span class=c1>// 对不同成员赋值
+</span></span></span><span class=line><span class=cl><span class=c1></span>    <span class=n>data</span><span class=p>.</span><span class=n>num</span> <span class=o>=</span> <span class=mi>10</span><span class=p>;</span>
+</span></span><span class=line><span class=cl>    <span class=nf>printf</span><span class=p>(</span><span class=s>&#34;Num: %d</span><span class=se>\n</span><span class=s>&#34;</span><span class=p>,</span> <span class=n>data</span><span class=p>.</span><span class=n>num</span><span class=p>);</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>    <span class=n>data</span><span class=p>.</span><span class=n>f</span> <span class=o>=</span> <span class=mf>3.14</span><span class=p>;</span>
+</span></span><span class=line><span class=cl>    <span class=nf>printf</span><span class=p>(</span><span class=s>&#34;Float: %.2f</span><span class=se>\n</span><span class=s>&#34;</span><span class=p>,</span> <span class=n>data</span><span class=p>.</span><span class=n>f</span><span class=p>);</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>    <span class=nf>strcpy</span><span class=p>(</span><span class=n>data</span><span class=p>.</span><span class=n>str</span><span class=p>,</span> <span class=s>&#34;Hello&#34;</span><span class=p>);</span>
+</span></span><span class=line><span class=cl>    <span class=nf>printf</span><span class=p>(</span><span class=s>&#34;String: %s</span><span class=se>\n</span><span class=s>&#34;</span><span class=p>,</span> <span class=n>data</span><span class=p>.</span><span class=n>str</span><span class=p>);</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>    <span class=k>return</span> <span class=mi>0</span><span class=p>;</span>
+</span></span><span class=line><span class=cl><span class=p>}</span>
+</span></span></code></pre></td></tr></table></div></div><p>上述示例中，我们定义了一个名为 &ldquo;Data&rdquo; 的联合体，包含了整型、浮点型和字符型三个成员。在 <code>main()</code> 函数中，我们创建了一个名为 &ldquo;data&rdquo; 的联合体变量，并分别对不同成员进行赋值和访问。需要注意的是，联合体的不同成员共享同一块内存，所以在给一个成员赋值后，其他成员的值会被覆盖。</p><hr><p>关键区别总结：</p><ul><li><strong>结构体</strong>允许存储多个成员，每个成员都占据自己的内存空间。</li><li><strong>联合体</strong>只能同时存储一个成员，所有成员共享同一块内存空间。</li></ul><p>结构体适合用于表示相关但不同类型的数据集合，而联合体适合用于节省内存，同时只需存储一种类型的数据，或者在不同类型数据之间进行转换。</p></div><footer class=post-footer><ul class=post-tags></ul><nav class=paginav><a class=next href=https://00001011b.github.io/posts/tech/%E4%BB%8E%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91%E5%8E%BB%E7%90%86%E8%A7%A3c%E8%AF%AD%E8%A8%80%E7%9A%84%E6%9E%9A%E4%B8%BE%E7%B1%BB%E5%9E%8B/><span class=title>下一页 »</span><br><span>从底层逻辑去理解C语言的枚举类型</span></a></nav></footer></article></main><footer class=footer><span>&copy; 2023 <a href=https://00001011b.github.io/>落魄山</a></span>
+<span>Powered by
+<a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
+        <a href=https://git.io/hugopapermod rel=noopener target=_blank>PaperMod</a></span></footer><a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg></a><script>let menu=document.getElementById("menu");menu&&(menu.scrollLeft=localStorage.getItem("menu-scroll-position"),menu.onscroll=function(){localStorage.setItem("menu-scroll-position",menu.scrollLeft)}),document.querySelectorAll('a[href^="#"]').forEach(e=>{e.addEventListener("click",function(e){e.preventDefault();var t=this.getAttribute("href").substr(1);window.matchMedia("(prefers-reduced-motion: reduce)").matches?document.querySelector(`[id='${decodeURIComponent(t)}']`).scrollIntoView():document.querySelector(`[id='${decodeURIComponent(t)}']`).scrollIntoView({behavior:"smooth"}),t==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${t}`)})})</script><script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script></body></html>
