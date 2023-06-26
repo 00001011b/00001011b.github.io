@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 26 Jun 2023 23:39:45 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jun 2023 00:43:51 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于struct声明中self Referential的说明</title>
+      <link>https://00001011b.github.io/posts/tech/%E5%85%B3%E4%BA%8Estruct%E5%A3%B0%E6%98%8E%E4%B8%ADself-referential%E7%9A%84%E8%AF%B4%E6%98%8E/</link>
+      <pubDate>Tue, 27 Jun 2023 00:43:51 +0800</pubDate>
+      
+      <guid>https://00001011b.github.io/posts/tech/%E5%85%B3%E4%BA%8Estruct%E5%A3%B0%E6%98%8E%E4%B8%ADself-referential%E7%9A%84%E8%AF%B4%E6%98%8E/</guid>
+      <description>在《The C programming language, second edition》的 section A8.3 中，有这么一段话： A structure may not contain a member of incomplete type. Therefore, it is impossible to declare a structure or union containing an instance of itself. However, besides giving a name to the structure or union type, tags allow definition of self-referential</description>
+    </item>
+    
     <item>
       <title>关于 C 语言里的 specifier 和 qualifier</title>
       <link>https://00001011b.github.io/posts/tech/%E5%85%B3%E4%BA%8Ec%E8%AF%AD%E8%A8%80%E9%87%8C%E7%9A%84specifier%E5%92%8Cqualifier/</link>
