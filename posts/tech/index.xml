@@ -10,9 +10,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 18 Jun 2023 14:34:33 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Jun 2023 23:39:45 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>从ANSI Standart的角度，解释const和volatile的区别</title>
+      <title>关于 C 语言里的 specifier 和 qualifier</title>
+      <link>https://00001011b.github.io/posts/tech/%E5%85%B3%E4%BA%8Ec%E8%AF%AD%E8%A8%80%E9%87%8C%E7%9A%84specifier%E5%92%8Cqualifier/</link>
+      <pubDate>Mon, 26 Jun 2023 23:39:45 +0800</pubDate>
+      
+      <guid>https://00001011b.github.io/posts/tech/%E5%85%B3%E4%BA%8Ec%E8%AF%AD%E8%A8%80%E9%87%8C%E7%9A%84specifier%E5%92%8Cqualifier/</guid>
+      <description>在C编程中，“specifier”（指示符）和“qualifier”（限定符）是两个具有不同含义的概念： 指示符（Specifier）：在C编</description>
+    </item>
+    
+    <item>
+      <title>从 ANSI Standart 的角度，解释 const 和 volatile 的区别</title>
       <link>https://00001011b.github.io/posts/tech/%E4%BB%8Eansi-standart%E7%9A%84%E8%A7%92%E5%BA%A6%E8%A7%A3%E9%87%8Aconst%E5%92%8Cvolatile%E7%9A%84%E5%8C%BA%E5%88%AB/</link>
       <pubDate>Sun, 18 Jun 2023 14:34:33 +0800</pubDate>
       
@@ -21,7 +30,7 @@
     </item>
     
     <item>
-      <title>理解和区分C语言的structure和union</title>
+      <title>理解和区分 C 语言的 structure 和 union</title>
       <link>https://00001011b.github.io/posts/tech/%E7%90%86%E8%A7%A3%E5%92%8C%E5%8C%BA%E5%88%86c%E8%AF%AD%E8%A8%80%E7%9A%84structure%E5%92%8Cunion/</link>
       <pubDate>Sat, 17 Jun 2023 00:04:46 +0800</pubDate>
       
@@ -30,7 +39,7 @@
     </item>
     
     <item>
-      <title>从底层逻辑去理解C语言的枚举类型</title>
+      <title>从底层逻辑去理解 C 语言的枚举类型</title>
       <link>https://00001011b.github.io/posts/tech/%E4%BB%8E%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91%E5%8E%BB%E7%90%86%E8%A7%A3c%E8%AF%AD%E8%A8%80%E7%9A%84%E6%9E%9A%E4%B8%BE%E7%B1%BB%E5%9E%8B/</link>
       <pubDate>Mon, 12 Jun 2023 22:51:40 +0800</pubDate>
       
@@ -39,7 +48,7 @@
     </item>
     
     <item>
-      <title>理解C语言变量</title>
+      <title>理解 C 语言变量</title>
       <link>https://00001011b.github.io/posts/tech/%E7%90%86%E8%A7%A3c%E8%AF%AD%E8%A8%80%E5%8F%98%E9%87%8F/</link>
       <pubDate>Sun, 11 Jun 2023 14:03:41 +0800</pubDate>
       
@@ -57,7 +66,7 @@
     </item>
     
     <item>
-      <title>Excel计算周岁</title>
+      <title>Excel 计算周岁</title>
       <link>https://00001011b.github.io/posts/tech/excel%E8%AE%A1%E7%AE%97%E5%91%A8%E5%B2%81/</link>
       <pubDate>Tue, 13 Sep 2022 11:14:58 +0800</pubDate>
       
@@ -66,7 +75,7 @@
     </item>
     
     <item>
-      <title>Hugo安装，使用，及恢复</title>
+      <title>Hugo 的安装，使用，及恢复</title>
       <link>https://00001011b.github.io/posts/tech/hugo%E5%AE%89%E8%A3%85%E7%BB%B4%E6%8A%A4%E5%8F%8A%E6%81%A2%E5%A4%8D/</link>
       <pubDate>Fri, 19 Aug 2022 13:21:53 +0800</pubDate>
       
