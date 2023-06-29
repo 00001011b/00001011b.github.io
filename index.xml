@@ -10,9 +10,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 27 Jun 2023 00:43:51 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jun 2023 21:17:21 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>关于struct声明中self Referential的说明</title>
+      <title>20230629</title>
+      <link>https://00001011b.github.io/talk/20230629/</link>
+      <pubDate>Thu, 29 Jun 2023 21:17:21 +0800</pubDate>
+      
+      <guid>https://00001011b.github.io/talk/20230629/</guid>
+      <description>最深层的秘密是，生活不是发现的过程，而是创造的过程。 你并不是在发现自我，而是在创造新的自我。因此，别试图解答你是什么人，要试图确定你想成为什</description>
+    </item>
+    
+    <item>
+      <title>关于 struct 声明中 self Referential 的说明</title>
       <link>https://00001011b.github.io/posts/tech/%E5%85%B3%E4%BA%8Estruct%E5%A3%B0%E6%98%8E%E4%B8%ADself-referential%E7%9A%84%E8%AF%B4%E6%98%8E/</link>
       <pubDate>Tue, 27 Jun 2023 00:43:51 +0800</pubDate>
       
