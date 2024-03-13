@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 19 Feb 2024 20:55:00 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Mar 2024 22:03:00 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20240313</title>
+      <link>https://00001011b.github.io/talk/20240313/</link>
+      <pubDate>Wed, 13 Mar 2024 22:03:00 +0800</pubDate>
+      
+      <guid>https://00001011b.github.io/talk/20240313/</guid>
+      <description>本来打算花一个月的时间将 csapp 看完的，前面十一个章节我花了一个月就看完了，但最后一个章节 Concurrent Programing 我是花了将近一个月才看完。因此总计两个月才看完这本书</description>
+    </item>
+    
     <item>
       <title>20240219</title>
       <link>https://00001011b.github.io/talk/20240219/</link>
