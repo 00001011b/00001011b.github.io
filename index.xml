@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 13 Mar 2024 22:03:00 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Aug 2024 01:51:13 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20240803</title>
+      <link>https://00001011b.github.io/talk/20240803/</link>
+      <pubDate>Sat, 03 Aug 2024 01:51:13 +0800</pubDate>
+      
+      <guid>https://00001011b.github.io/talk/20240803/</guid>
+      <description>一个月前想动笔写点东西的了。 但发现 post meta 显示有错误，升级了 hugo 版本没解决后，我就把发文章一股脑丢在脑后了。 今天重温了一遍王志文演的《天道》，加上</description>
+    </item>
+    
     <item>
       <title>20240313</title>
       <link>https://00001011b.github.io/talk/20240313/</link>
