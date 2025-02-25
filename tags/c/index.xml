@@ -5,56 +5,58 @@
     <link>https://00001011b.github.io/tags/c/</link>
     <description>Recent content in C on 落魄山</description>
     <image>
+      <title>落魄山</title>
       <url>https://00001011b.github.io/images/author.jpg</url>
       <link>https://00001011b.github.io/images/author.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.144.1</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 26 Jun 2023 23:39:45 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Jun 2023 23:39:45 +0800</lastBuildDate>
+    <atom:link href="https://00001011b.github.io/tags/c/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于 C 语言里的 specifier 和 qualifier</title>
       <link>https://00001011b.github.io/posts/tech/%E5%85%B3%E4%BA%8Ec%E8%AF%AD%E8%A8%80%E9%87%8C%E7%9A%84specifier%E5%92%8Cqualifier/</link>
       <pubDate>Mon, 26 Jun 2023 23:39:45 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/posts/tech/%E5%85%B3%E4%BA%8Ec%E8%AF%AD%E8%A8%80%E9%87%8C%E7%9A%84specifier%E5%92%8Cqualifier/</guid>
-      <description>在C编程中，“specifier”（指示符）和“qualifier”（限定符）是两个具有不同含义的概念： 指示符（Specifier）：在C编</description>
+      <description>&lt;p&gt;在C编程中，“specifier”（指示符）和“qualifier”（限定符）是两个具有不同含义的概念：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;指示符（Specifier）：在C编程中，指示符是用于定义变量或函数的类型和存储类的关键字。指示符包括&lt;code&gt;int&lt;/code&gt;、&lt;code&gt;float&lt;/code&gt;、&lt;code&gt;char&lt;/code&gt;、&lt;code&gt;void&lt;/code&gt;、&lt;code&gt;extern&lt;/code&gt;、&lt;code&gt;static&lt;/code&gt;等。指示符用于指定变量或函数的基本属性。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>从 ANSI Standart 的角度，解释 const 和 volatile 的区别</title>
       <link>https://00001011b.github.io/posts/tech/%E4%BB%8Eansi-standart%E7%9A%84%E8%A7%92%E5%BA%A6%E8%A7%A3%E9%87%8Aconst%E5%92%8Cvolatile%E7%9A%84%E5%8C%BA%E5%88%AB/</link>
       <pubDate>Sun, 18 Jun 2023 14:34:33 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/posts/tech/%E4%BB%8Eansi-standart%E7%9A%84%E8%A7%92%E5%BA%A6%E8%A7%A3%E9%87%8Aconst%E5%92%8Cvolatile%E7%9A%84%E5%8C%BA%E5%88%AB/</guid>
-      <description>当我阅读《The C programming language, second edition》 SECTION A8.2 (page 211) 时看到下面一段话，谈论的是 const 与 volatile 的对象与编译器优化相关的问题。 The const and volatile properties are new with the ANSI Standart. The purpose of const</description>
+      <description>&lt;p&gt;当我阅读&lt;a href=&#34;https://book.douban.com/subject/1882483/&#34;&gt;《The C programming language, second edition》&lt;/a&gt; SECTION A8.2 (page 211) 时看到下面一段话，谈论的是 const 与 volatile 的对象与编译器优化相关的问题。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The &lt;code&gt;const&lt;/code&gt; and &lt;code&gt;volatile&lt;/code&gt; properties are new with the ANSI Standart. The purpose of &lt;code&gt;const&lt;/code&gt; is to announce objects that may be placed in read-only memory, and perhaps to increase opportunities for optimization. The purpose of &lt;code&gt;volatile&lt;/code&gt; is to force an implementation to suppress optimization that could otherwise occur. For example, for a machine with memory-mapped input/output, a pointer to a device register might be declared as a pointer to &lt;code&gt;volatile&lt;/code&gt;, in order to prevent the compiler from removing apparently redundant references through the pointer. Except that it should diagnose explicit attempts to change const objects, a compiler compiler may ignore these qulifiers.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>理解和区分 C 语言的 structure 和 union</title>
       <link>https://00001011b.github.io/posts/tech/%E7%90%86%E8%A7%A3%E5%92%8C%E5%8C%BA%E5%88%86c%E8%AF%AD%E8%A8%80%E7%9A%84structure%E5%92%8Cunion/</link>
       <pubDate>Sat, 17 Jun 2023 00:04:46 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/posts/tech/%E7%90%86%E8%A7%A3%E5%92%8C%E5%8C%BA%E5%88%86c%E8%AF%AD%E8%A8%80%E7%9A%84structure%E5%92%8Cunion/</guid>
-      <description>在C语言中，structure（结构体）和union（联合体）是用于组织和存储不同类型数据的方式。它们有相似之处，但也有一些关键的区别。 St</description>
+      <description>&lt;p&gt;在C语言中，structure（结构体）和union（联合体）是用于组织和存储不同类型数据的方式。它们有相似之处，但也有一些关键的区别。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Structure（结构体）&lt;/strong&gt;：
+结构体是一种用户自定义的数据类型，可以将不同类型的变量组合在一起形成一个逻辑上相关的数据单元。结构体的成员可以是不同的数据类型，每个成员都有自己的名称和内存地址。结构体的各个成员在内存中是按照定义的顺序存储的，每个成员占据自己的内存空间。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>从底层逻辑去理解 C 语言的枚举类型</title>
       <link>https://00001011b.github.io/posts/tech/%E4%BB%8E%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91%E5%8E%BB%E7%90%86%E8%A7%A3c%E8%AF%AD%E8%A8%80%E7%9A%84%E6%9E%9A%E4%B8%BE%E7%B1%BB%E5%9E%8B/</link>
       <pubDate>Mon, 12 Jun 2023 22:51:40 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/posts/tech/%E4%BB%8E%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91%E5%8E%BB%E7%90%86%E8%A7%A3c%E8%AF%AD%E8%A8%80%E7%9A%84%E6%9E%9A%E4%B8%BE%E7%B1%BB%E5%9E%8B/</guid>
-      <description>快速知道枚举 在C语言中，枚举（enumeration）是一种用户自定义的数据类型，用于定义一组具有离散取值的常量。枚举类型可以帮助程序员提高</description>
+      <description>&lt;h3 id=&#34;快速知道枚举&#34;&gt;快速知道枚举&lt;/h3&gt;
+&lt;p&gt;在C语言中，枚举（enumeration）是一种用户自定义的数据类型，用于定义一组具有离散取值的常量。枚举类型可以帮助程序员提高代码可读性和可维护性，因为它们允许使用有意义的标识符来表示一组相关的常量。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>理解 C 语言变量</title>
       <link>https://00001011b.github.io/posts/tech/%E7%90%86%E8%A7%A3c%E8%AF%AD%E8%A8%80%E5%8F%98%E9%87%8F/</link>
       <pubDate>Sun, 11 Jun 2023 14:03:41 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/posts/tech/%E7%90%86%E8%A7%A3c%E8%AF%AD%E8%A8%80%E5%8F%98%E9%87%8F/</guid>
-      <description>变量（value）是标识符（identifier）的一个子集。因此在讲变量之前，先要说一下标识符（identifier）。 1、标识符 标识符，</description>
+      <description>&lt;p&gt;变量（value）是标识符（identifier）的一个子集。因此在讲变量之前，先要说一下标识符（identifier）。&lt;/p&gt;
+&lt;h3 id=&#34;1标识符&#34;&gt;1、标识符&lt;/h3&gt;
+&lt;p&gt;标识符，本质上来讲，就是一个名字。通过这个名字，我们可以引用到（refers to） C 语言里的很多东西：&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -5,47 +5,41 @@
     <link>https://00001011b.github.io/tags/</link>
     <description>Recent content in Tags on 落魄山</description>
     <image>
+      <title>落魄山</title>
       <url>https://00001011b.github.io/images/author.jpg</url>
       <link>https://00001011b.github.io/images/author.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.144.1</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 26 Jun 2023 23:39:45 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Jun 2023 23:39:45 +0800</lastBuildDate>
+    <atom:link href="https://00001011b.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C</title>
       <link>https://00001011b.github.io/tags/c/</link>
       <pubDate>Mon, 26 Jun 2023 23:39:45 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/tags/c/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>电磁学</title>
       <link>https://00001011b.github.io/tags/%E7%94%B5%E7%A3%81%E5%AD%A6/</link>
       <pubDate>Thu, 24 Nov 2022 08:39:15 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/tags/%E7%94%B5%E7%A3%81%E5%AD%A6/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Excel</title>
       <link>https://00001011b.github.io/tags/excel/</link>
       <pubDate>Tue, 13 Sep 2022 11:14:58 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/tags/excel/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>问心</title>
       <link>https://00001011b.github.io/tags/%E9%97%AE%E5%BF%83/</link>
       <pubDate>Sat, 14 May 2022 22:18:16 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/tags/%E9%97%AE%E5%BF%83/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

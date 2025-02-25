@@ -5,10 +5,12 @@
     <link>https://00001011b.github.io/archives/</link>
     <description>Recent content on 落魄山</description>
     <image>
+      <title>落魄山</title>
       <url>https://00001011b.github.io/images/author.jpg</url>
       <link>https://00001011b.github.io/images/author.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language><atom:link href="https://00001011b.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.144.1</generator>
+    <language>zh</language>
+    <atom:link href="https://00001011b.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -5,20 +5,22 @@
     <link>https://00001011b.github.io/tags/excel/</link>
     <description>Recent content in Excel on 落魄山</description>
     <image>
+      <title>落魄山</title>
       <url>https://00001011b.github.io/images/author.jpg</url>
       <link>https://00001011b.github.io/images/author.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.144.1</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 13 Sep 2022 11:14:58 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Sep 2022 11:14:58 +0800</lastBuildDate>
+    <atom:link href="https://00001011b.github.io/tags/excel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Excel 计算周岁</title>
       <link>https://00001011b.github.io/posts/tech/excel%E8%AE%A1%E7%AE%97%E5%91%A8%E5%B2%81/</link>
       <pubDate>Tue, 13 Sep 2022 11:14:58 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/posts/tech/excel%E8%AE%A1%E7%AE%97%E5%91%A8%E5%B2%81/</guid>
-      <description>计算周岁时，并不是简单地用当前年份减去出生年份，而是要考虑到年、月和日三方面的因素。也就是很多人说的，生日还没到，还没满18岁。😁 日期格式 因</description>
+      <description>&lt;p&gt;计算周岁时，并不是简单地用当前年份减去出生年份，而是要考虑到年、月和日三方面的因素。也就是很多人说的，生日还没到，还没满18岁。😁&lt;/p&gt;
+&lt;h3 id=&#34;日期格式&#34;&gt;日期格式&lt;/h3&gt;
+&lt;p&gt;因为我们的生日是用日期表示，因此在计算周岁之前，我们还要从 Excel 的角度去认识何为日期。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

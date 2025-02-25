@@ -5,425 +5,404 @@
     <link>https://00001011b.github.io/talk/</link>
     <description>Recent content on 落魄山</description>
     <image>
+      <title>落魄山</title>
       <url>https://00001011b.github.io/images/author.jpg</url>
       <link>https://00001011b.github.io/images/author.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.144.1</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 09 Oct 2024 15:31:09 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Feb 2025 08:31:25 +0800</lastBuildDate>
+    <atom:link href="https://00001011b.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025022501</title>
+      <link>https://00001011b.github.io/talk/2025022501/</link>
+      <pubDate>Tue, 25 Feb 2025 08:31:25 +0800</pubDate>
+      <guid>https://00001011b.github.io/talk/2025022501/</guid>
+      <description>&lt;p&gt;好久没更新了。&lt;/p&gt;
+&lt;p&gt;前面有几次想更新的，但启动 hugo 时遇到了 &lt;code&gt;ERROR deprecated&lt;/code&gt;。就每次都放弃了。&lt;/p&gt;
+&lt;p&gt;发生了很多事情，但好像没啥说的。嘻嘻。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>20241009</title>
       <link>https://00001011b.github.io/talk/20241009/</link>
       <pubDate>Wed, 09 Oct 2024 15:31:09 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20241009/</guid>
-      <description>平时喜欢看装修风格的视频，觉得很治愈，很让人心静。 看着出租屋丑陋的水管布局，信心大爆炸，就决定改造。 拆到一半我就知道不妙，但工程都铺开了，只</description>
+      <description>&lt;p&gt;平时喜欢看装修风格的视频，觉得很治愈，很让人心静。&lt;/p&gt;
+&lt;p&gt;看着出租屋丑陋的水管布局，信心大爆炸，就决定改造。&lt;/p&gt;
+&lt;p&gt;拆到一半我就知道不妙，但工程都铺开了，只能硬着头皮硬做。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20240903</title>
       <link>https://00001011b.github.io/talk/20240903/</link>
       <pubDate>Tue, 03 Sep 2024 08:26:47 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20240903/</guid>
-      <description>思想极其匮乏，但静不下心看书。 身体极其疲劳，但总是难以入眠。 肚子极其饥饿，但吃不下多少饭。 我呀，缓存太小了。 因此生活被拆得七零八碎， 我在碎片</description>
+      <description>&lt;p&gt;思想极其匮乏，但静不下心看书。&lt;/p&gt;
+&lt;p&gt;身体极其疲劳，但总是难以入眠。&lt;/p&gt;
+&lt;p&gt;肚子极其饥饿，但吃不下多少饭。&lt;/p&gt;
+&lt;p&gt;我呀，缓存太小了。&lt;/p&gt;
+&lt;p&gt;因此生活被拆得七零八碎，&lt;/p&gt;
+&lt;p&gt;我在碎片中，如同无家可归的灵魂，&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20240803</title>
       <link>https://00001011b.github.io/talk/20240803/</link>
       <pubDate>Sat, 03 Aug 2024 01:51:13 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20240803/</guid>
-      <description>一个月前想动笔写点东西的了。 但发现 post meta 显示有错误，升级了 hugo 版本没解决后，我就把发文章一股脑丢在脑后了。 今天重温了一遍王志文演的《天道》，加上</description>
+      <description>&lt;p&gt;一个月前想动笔写点东西的了。&lt;/p&gt;
+&lt;p&gt;但发现 post meta 显示有错误，升级了 hugo 版本没解决后，我就把发文章一股脑丢在脑后了。&lt;/p&gt;
+&lt;p&gt;今天重温了一遍王志文演的《天道》，加上这几天发生了一些令自己不是很开心的事情，肚子里有一肚子的话要讲。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20240313</title>
       <link>https://00001011b.github.io/talk/20240313/</link>
       <pubDate>Wed, 13 Mar 2024 22:03:00 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20240313/</guid>
-      <description>本来打算花一个月的时间将 csapp 看完的，前面十一个章节我花了一个月就看完了，但最后一个章节 Concurrent Programing 我是花了将近一个月才看完。因此总计两个月才看完这本书</description>
+      <description>&lt;p&gt;本来打算花一个月的时间将 csapp 看完的，前面十一个章节我花了一个月就看完了，但最后一个章节 Concurrent Programing 我是花了将近一个月才看完。因此总计两个月才看完这本书。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20240219</title>
       <link>https://00001011b.github.io/talk/20240219/</link>
       <pubDate>Mon, 19 Feb 2024 20:55:00 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20240219/</guid>
-      <description>今年被催婚了。 我爸说父母总有一天会离开，叫我务必认认真真思考婚姻这个问题。 人到底是需要陪伴的。 可我思来想去，却想不出什么办法能够破除当前这个</description>
+      <description>&lt;p&gt;今年被催婚了。&lt;/p&gt;
+&lt;p&gt;我爸说父母总有一天会离开，叫我务必认认真真思考婚姻这个问题。&lt;/p&gt;
+&lt;p&gt;人到底是需要陪伴的。&lt;/p&gt;
+&lt;p&gt;可我思来想去，却想不出什么办法能够破除当前这个困境。&lt;/p&gt;
+&lt;p&gt;只能通过努力学习来麻痹自己,躲避责任。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20231009</title>
       <link>https://00001011b.github.io/talk/20231009/</link>
       <pubDate>Mon, 09 Oct 2023 23:00:33 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20231009/</guid>
-      <description>几乎两个月没学任何技术知识了。 每天就是玩游戏和刷视频。 很舒服。</description>
+      <description>&lt;p&gt;几乎两个月没学任何技术知识了。&lt;/p&gt;
+&lt;p&gt;每天就是玩游戏和刷视频。&lt;/p&gt;
+&lt;p&gt;很舒服。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20230828</title>
       <link>https://00001011b.github.io/talk/20230828/</link>
       <pubDate>Mon, 28 Aug 2023 03:24:25 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20230828/</guid>
-      <description>一个很深很深的夜，我很久没在这么黑的天空下游荡了。 所思所想，皆无方向。 极大的自由之下，相伴着无限的迷茫。</description>
+      <description>&lt;p&gt;一个很深很深的夜，我很久没在这么黑的天空下游荡了。&lt;/p&gt;
+&lt;p&gt;所思所想，皆无方向。&lt;/p&gt;
+&lt;p&gt;极大的自由之下，相伴着无限的迷茫。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20230804</title>
       <link>https://00001011b.github.io/talk/20230804/</link>
       <pubDate>Fri, 04 Aug 2023 01:49:32 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20230804/</guid>
-      <description>又是一个深夜。 其实最近看了几本书，很多知识点之间的联系隐隐约约建立起来了。 这些书目前没看完，在很努力的看了。以下是列表： 1.《UNIX Network Programming, Volume</description>
+      <description>&lt;p&gt;又是一个深夜。&lt;/p&gt;
+&lt;p&gt;其实最近看了几本书，很多知识点之间的联系隐隐约约建立起来了。&lt;/p&gt;
+&lt;p&gt;这些书目前没看完，在很努力的看了。以下是列表：&lt;/p&gt;
+&lt;p&gt;1.《UNIX Network Programming, Volume 1 The Sockets Networking API》&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20230629</title>
       <link>https://00001011b.github.io/talk/20230629/</link>
       <pubDate>Thu, 29 Jun 2023 21:17:21 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20230629/</guid>
-      <description>最深层的秘密是，生活不是发现的过程，而是创造的过程。 你并不是在发现自我，而是在创造新的自我。因此，别试图解答你是什么人，要试图确定你想成为什</description>
+      <description>&lt;p&gt;&lt;strong&gt;最深层的秘密是，生活不是发现的过程，而是创造的过程。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;你并不是在发现自我，而是在创造新的自我。因此，别试图解答你是什么人，要试图确定你想成为什么人。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20230419</title>
       <link>https://00001011b.github.io/talk/20230419/</link>
       <pubDate>Wed, 19 Apr 2023 23:10:47 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20230419/</guid>
-      <description>小时候在课本学习的那些很有正义感的词语：正直，勇敢，善良，真诚。 长大之后才发现，我所行走的路上，竟然不断地和这些词语所描述的品质渐行渐远。 每</description>
+      <description>&lt;p&gt;小时候在课本学习的那些很有正义感的词语：&lt;code&gt;正直&lt;/code&gt;，&lt;code&gt;勇敢&lt;/code&gt;，&lt;code&gt;善良&lt;/code&gt;，&lt;code&gt;真诚&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;长大之后才发现，我所行走的路上，竟然不断地和这些词语所描述的品质渐行渐远。&lt;/p&gt;
+&lt;p&gt;每当发现距离再次增加，就如割肉般疼痛，之后就是无声无息自我安慰，偃旗息鼓。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20230316</title>
       <link>https://00001011b.github.io/talk/20230316/</link>
       <pubDate>Thu, 16 Mar 2023 23:18:03 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20230316/</guid>
-      <description>最近很缺钱。 总是觉得赚的钱不够花。 我就开始在想，怎么才能赚钱呢？工资是死的，拥有第二收入是有点迫切了。 但思来想去，就发现学习了这么久，我并没</description>
+      <description>&lt;p&gt;最近很缺钱。&lt;/p&gt;
+&lt;p&gt;总是觉得赚的钱不够花。&lt;/p&gt;
+&lt;p&gt;我就开始在想，怎么才能赚钱呢？工资是死的，拥有第二收入是有点迫切了。&lt;/p&gt;
+&lt;p&gt;但思来想去，就发现学习了这么久，我并没有拥有变现能力。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20230306</title>
       <link>https://00001011b.github.io/talk/20230306/</link>
       <pubDate>Mon, 06 Mar 2023 10:15:40 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20230306/</guid>
-      <description>刚在看《我的信念》第一章“自然与人”的时候，见到了一个词：急动度（jerk）。 这个词给我的阅读增加了障碍，令我无所适从，感觉像是举着重踩在了</description>
+      <description>&lt;p&gt;刚在看《我的信念》第一章“自然与人”的时候，见到了一个词：急动度（jerk）。&lt;/p&gt;
+&lt;p&gt;这个词给我的阅读增加了障碍，令我无所适从，感觉像是举着重踩在了水上，卯足了劲，却看不到力量的传导方向。😔&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20230122</title>
       <link>https://00001011b.github.io/talk/20230122/</link>
       <pubDate>Sun, 22 Jan 2023 22:55:18 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20230122/</guid>
-      <description>今天是春节。(❤️´艸｀❤️) 古代有“每逢佳节倍思亲”，今有我自作多情，强行忧愁。 这种大节日里总要产生点文人骚客般的别样情绪，说到底就是矫情</description>
+      <description>&lt;p&gt;今天是春节。(❤️´艸｀❤️)&lt;/p&gt;
+&lt;p&gt;古代有“每逢佳节倍思亲”，今有我自作多情，强行忧愁。&lt;/p&gt;
+&lt;p&gt;这种大节日里总要产生点文人骚客般的别样情绪，说到底就是矫情。&lt;/p&gt;
+&lt;p&gt;可这种矫情竟然是我与生俱来的。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20221217</title>
       <link>https://00001011b.github.io/talk/20221217/</link>
       <pubDate>Sat, 17 Dec 2022 11:12:32 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20221217/</guid>
-      <description>最近学了一堆东西：电磁学、电工、做了 CS-APP LABS。 更改了网站布局，也起草了一堆文章稿子。 无一意外，全部烂尾了。😔😔😔</description>
+      <description>&lt;p&gt;最近学了一堆东西：电磁学、电工、做了 CS-APP LABS。&lt;/p&gt;
+&lt;p&gt;更改了网站布局，也起草了一堆文章稿子。&lt;/p&gt;
+&lt;p&gt;无一意外，全部烂尾了。😔😔😔&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20221102</title>
       <link>https://00001011b.github.io/talk/20221102/</link>
       <pubDate>Wed, 02 Nov 2022 23:02:03 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20221102/</guid>
-      <description>不仅编程语言有这种现象，这实际上是一种普遍的历史趋势。随着技术的发展，每一代人都在做上一代人觉得很浪费的事情。30年前的人要是看到我们今天如</description>
+      <description>&lt;p&gt;不仅编程语言有这种现象，这实际上是一种普遍的历史趋势。随着技术的发展，每一代人都在做上一代人觉得很浪费的事情。30年前的人要是看到我们今天如此随意地使用长途电话，一定会感到震惊。100年前的人要是看到一个普通的包裹竟然也能享受一天内从波士顿发件、途经孟菲斯、抵达纽约的待遇，恐怕就要更震惊了。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20221023</title>
       <link>https://00001011b.github.io/talk/20221023/</link>
       <pubDate>Sun, 23 Oct 2022 00:40:20 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20221023/</guid>
-      <description>一旦发现了“不能说的话”，下一步怎么办？我的建议就是别说，至少也要挑选合适的场合再说，只打那些值得打的仗。 假设未来的某一天，世界上爆发了一场</description>
+      <description>&lt;p&gt;一旦发现了“不能说的话”，下一步怎么办？我的建议就是别说，至少也要挑选合适的场合再说，只打那些值得打的仗。&lt;/p&gt;
+&lt;p&gt;假设未来的某一天，世界上爆发了一场运动，黄颜色被禁止了。任何东西都不得涂成黄色，违者就是“黄色分子”（yellowist），以破坏社会稳定罪论处。橙色可以容忍，但也很可疑。有一天，你终于觉醒了，意识到错的不是黄颜色，而是这个社会。如果公开这样说，就会被打成“黄色分子”，无数正义人士义愤填膺，对你口诛笔伐。如果你以此作为人生目的，一定要为黄颜色平反昭雪，现在的局面可能正中你下怀。但是，如果你的兴趣主要是别的事情，变成他人眼里的“黄色分子”对你是极大的干扰。与笨蛋辩论，你也会变成笨蛋。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20221020</title>
       <link>https://00001011b.github.io/talk/20221020/</link>
       <pubDate>Thu, 20 Oct 2022 23:18:51 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20221020/</guid>
-      <description>没有什么比一个错误的前提更容易产生大量待解决的问题了。 &amp;mdash;&amp;mdash;《黑客与画家》</description>
+      <description>&lt;p&gt;没有什么比一个错误的前提更容易产生大量待解决的问题了。&lt;/p&gt;
+&lt;p&gt;&amp;mdash;&amp;mdash;《黑客与画家》&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20221018</title>
       <link>https://00001011b.github.io/talk/20221018/</link>
       <pubDate>Tue, 18 Oct 2022 20:44:39 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20221018/</guid>
-      <description>时间好快呀，因为工作太忙了。很久没学编程了。 心里空虚至极。</description>
+      <description>&lt;p&gt;时间好快呀，因为工作太忙了。很久没学编程了。&lt;/p&gt;
+&lt;p&gt;心里空虚至极。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20221004</title>
       <link>https://00001011b.github.io/talk/20221004/</link>
       <pubDate>Tue, 04 Oct 2022 21:57:21 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20221004/</guid>
-      <description>累了。 和初中同学聚会后，又一次觉得我不需要社交。😭😭😭 应付感好浓烈。 我不喜欢应付。</description>
+      <description>&lt;p&gt;累了。&lt;/p&gt;
+&lt;p&gt;和初中同学聚会后，又一次觉得我不需要社交。😭😭😭&lt;/p&gt;
+&lt;p&gt;应付感好浓烈。&lt;/p&gt;
+&lt;p&gt;我不喜欢应付。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20220926</title>
       <link>https://00001011b.github.io/talk/20220926/</link>
       <pubDate>Mon, 26 Sep 2022 21:04:11 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220926/</guid>
-      <description>遇事不决，重装系统。😁😁😁</description>
+      <description>&lt;p&gt;遇事不决，重装系统。😁😁😁&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20220919</title>
       <link>https://00001011b.github.io/talk/20220919/</link>
       <pubDate>Mon, 19 Sep 2022 22:25:10 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220919/</guid>
-      <description>其实在学操作系统的时候我就意识到：我缺乏成熟的电路原理知识体系。 学习电路原理的时候我就意识到：我缺乏良好的微积分与线性代数背景。 如果这两道难</description>
+      <description>&lt;p&gt;其实在学操作系统的时候我就意识到：我缺乏成熟的电路原理知识体系。&lt;/p&gt;
+&lt;p&gt;学习电路原理的时候我就意识到：我缺乏良好的微积分与线性代数背景。&lt;/p&gt;
+&lt;p&gt;如果这两道难关我没闯过去，我就永远也写不出操作系统。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20220917</title>
       <link>https://00001011b.github.io/talk/20220917/</link>
       <pubDate>Sat, 17 Sep 2022 11:10:54 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220917/</guid>
-      <description>周三时做了一个梦，梦到了她，梦里的意难平延续至今。 我想，每个人都有难以言表的苦衷与过去。哪怕好好装饰了表情，过去的伤也很喜欢在夜里重新爬到脸</description>
+      <description>&lt;p&gt;周三时做了一个梦，梦到了她，梦里的意难平延续至今。&lt;/p&gt;
+&lt;p&gt;我想，每个人都有难以言表的苦衷与过去。哪怕好好装饰了表情，过去的伤也很喜欢在夜里重新爬到脸上，刺到心头。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20220910</title>
       <link>https://00001011b.github.io/talk/20220910/</link>
       <pubDate>Sat, 10 Sep 2022 23:51:57 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220910/</guid>
-      <description>质子数确定了原子的身份 电子数确定了原子的性情</description>
+      <description>&lt;p&gt;质子数确定了原子的身份&lt;/p&gt;
+&lt;p&gt;电子数确定了原子的性情&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20220905</title>
       <link>https://00001011b.github.io/talk/20220905/</link>
       <pubDate>Mon, 05 Sep 2022 18:44:45 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220905/</guid>
-      <description>明明不是自己的工作，拒绝后看着他们做着本应他们做的那份。 居然还是有点于心不忍，进而陷入心情低谷，觉得自己不够努力。 我真的太贱了。😔😔😔 就现在</description>
+      <description>&lt;p&gt;明明不是自己的工作，拒绝后看着他们做着本应他们做的那份。&lt;/p&gt;
+&lt;p&gt;居然还是有点于心不忍，进而陷入心情低谷，觉得自己不够努力。&lt;/p&gt;
+&lt;p&gt;我真的太贱了。😔😔😔&lt;/p&gt;
+&lt;p&gt;就现在手上的工作我还得时时加班做啊。&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>20220831</title>
-      <link>https://00001011b.github.io/talk/20220831/</link>
-      <pubDate>Wed, 31 Aug 2022 20:43:08 +0800</pubDate>
-      
-      <guid>https://00001011b.github.io/talk/20220831/</guid>
-      <description>刚刚在朋友圈里吐槽了工作的不合理。 然后右（下）眼皮直跳。 （PS：左眼跳财，右眼跳灾。虽然我知道这种认知并不科学，但从小就被灌输这种观念，到现</description>
-    </item>
-    
-    <item>
-      <title>20220829</title>
-      <link>https://00001011b.github.io/talk/20220829/</link>
-      <pubDate>Mon, 29 Aug 2022 22:45:52 +0800</pubDate>
-      
-      <guid>https://00001011b.github.io/talk/20220829/</guid>
-      <description>好像是遇见了喜欢的人。 久违了。虽然不可能了。 😁😁😁😁😁😁😁 是这样的，我喜欢的人，从来就不会喜欢我。</description>
-    </item>
-    
     <item>
       <title>20220826</title>
       <link>https://00001011b.github.io/talk/20220826/</link>
       <pubDate>Fri, 26 Aug 2022 23:45:22 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220826/</guid>
-      <description>那种，从来不在人前（包括网络社交圈）打卡学习计划进度的人。 是怎么做到一直闷声坚持下去的？ 我学习的时候，几分钟就心痒痒地要在社交圈里“显摆显摆</description>
+      <description>&lt;p&gt;那种，从来不在人前（包括网络社交圈）打卡学习计划进度的人。&lt;/p&gt;
+&lt;p&gt;是怎么做到一直闷声坚持下去的？&lt;/p&gt;
+&lt;p&gt;我学习的时候，几分钟就心痒痒地要在社交圈里“显摆显摆”了。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20220825</title>
       <link>https://00001011b.github.io/talk/20220825/</link>
       <pubDate>Thu, 25 Aug 2022 23:54:59 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220825/</guid>
-      <description>花了两天时间把《蛤蟆先生去看心理医生》看完了。 我的人生和蛤蟆的人生可谓是天差地别。 但竟然有着相同的缺点：“认为他人好，自己不好。” 看来，对自</description>
+      <description>&lt;p&gt;花了两天时间把《蛤蟆先生去看心理医生》看完了。&lt;/p&gt;
+&lt;p&gt;我的人生和蛤蟆的人生可谓是天差地别。&lt;/p&gt;
+&lt;p&gt;但竟然有着相同的缺点：“认为他人好，自己不好。”&lt;/p&gt;
+&lt;p&gt;看来，对自己的不肯定（缺乏自我意识），真的会走向种种不快乐。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20220824</title>
       <link>https://00001011b.github.io/talk/20220824/</link>
       <pubDate>Wed, 24 Aug 2022 14:22:15 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220824/</guid>
-      <description>《蛤蟆先生去看心理医生》第九章“秘密协议”里，蛤蟆说： 我几乎从不发火，是真的，苍鹭。我不跟人生气，我不责备别人，也不训斥别人或是挑人毛病。实</description>
+      <description>&lt;p&gt;《蛤蟆先生去看心理医生》第九章“秘密协议”里，蛤蟆说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我几乎从不发火，是真的，苍鹭。我不跟人生气，我不责备别人，也不训斥别人或是挑人毛病。实际上，情况通常正相反，我看到的都是别人的优点，还鼓励他们。这么说显得我弱了点儿，我知道，可这就是我。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20220820</title>
       <link>https://00001011b.github.io/talk/20220820/</link>
       <pubDate>Sat, 20 Aug 2022 21:44:51 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220820/</guid>
-      <description>为啥 Intel 处理器要求段在内存中的起始物理地址起码是 16 字节对齐的？👶👴 有啥优点或者说是因为历史包袱吗？😂😂</description>
+      <description>&lt;p&gt;为啥 Intel 处理器要求段在内存中的起始物理地址起码是 16 字节对齐的？👶👴&lt;/p&gt;
+&lt;p&gt;有啥优点或者说是因为历史包袱吗？😂😂&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20220819</title>
       <link>https://00001011b.github.io/talk/20220819/</link>
       <pubDate>Fri, 19 Aug 2022 14:36:06 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220819/</guid>
-      <description>一眨眼又一个月过去了。最终还是忍不住买了一台新的笔记本。因此我现在拥有了两台电脑了！😎😎😎 当然最近也在学习。发现了一本非常好的书：x86汇编</description>
+      <description>&lt;p&gt;一眨眼又一个月过去了。最终还是忍不住买了一台新的笔记本。因此我现在拥有了两台电脑了！😎😎😎&lt;/p&gt;
+&lt;p&gt;当然最近也在学习。发现了一本非常好的书：&lt;a href=&#34;https://book.douban.com/subject/20492528/&#34;&gt;x86汇编语言&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;作者文风非常厉害，一改我对国内技术书质量问题的悲观态度。强推！🤩🤩🤩&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20220711</title>
       <link>https://00001011b.github.io/talk/20220711/</link>
       <pubDate>Mon, 11 Jul 2022 23:57:33 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220711/</guid>
-      <description>为了得到充足的时间干点有意义的事情，我把所有的人际关系都推开了。 但是发现并没有将这样得来的时间花在自己脑海里认为有意义的事情上。 而是每天得过</description>
+      <description>&lt;p&gt;为了得到充足的时间干点有意义的事情，我把所有的人际关系都推开了。&lt;/p&gt;
+&lt;p&gt;但是发现并没有将这样得来的时间花在自己脑海里认为有意义的事情上。&lt;/p&gt;
+&lt;p&gt;而是每天得过且过，焦虑而又懒惰。😔😔😔&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20220709</title>
       <link>https://00001011b.github.io/talk/20220709/</link>
       <pubDate>Sat, 09 Jul 2022 21:57:01 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220709/</guid>
-      <description>我的电脑终于修好了。 忍住了没买一万多的 Y9000X. 也没买小两万的 Mac Studio.</description>
+      <description>&lt;p&gt;我的电脑终于修好了。&lt;/p&gt;
+&lt;p&gt;忍住了没买一万多的 Y9000X.&lt;/p&gt;
+&lt;p&gt;也没买小两万的 Mac Studio.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20220626</title>
       <link>https://00001011b.github.io/talk/20220626/</link>
       <pubDate>Sun, 26 Jun 2022 15:08:01 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220626/</guid>
-      <description>家人们，真的是微星电脑一生黑啊。我坏了一个电脑，折腾了三周了。售后还没解决。我已经几周没电脑用了！😭😭 搞得我很想斥巨资买下一台 Mac Studio</description>
+      <description>&lt;p&gt;家人们，真的是微星电脑一生黑啊。我坏了一个电脑，折腾了三周了。售后还没解决。我已经几周没电脑用了！😭😭&lt;/p&gt;
+&lt;p&gt;搞得我很想斥巨资买下一台 Mac Studio。但但但，我不想用 Mac OS。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20220618</title>
       <link>https://00001011b.github.io/talk/20220618/</link>
       <pubDate>Sat, 18 Jun 2022 22:52:07 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220618/</guid>
-      <description>为什么这么久都没发任何东西呢？因为电脑坏了。 不恰当的电压输入导致电源管理芯片坏了。 去检测的时候竟然直接去了售后工程师的家里。 他的家有点乱，电</description>
+      <description>&lt;p&gt;为什么这么久都没发任何东西呢？因为电脑坏了。&lt;/p&gt;
+&lt;p&gt;不恰当的电压输入导致电源管理芯片坏了。&lt;/p&gt;
+&lt;p&gt;去检测的时候竟然直接去了售后工程师的家里。&lt;/p&gt;
+&lt;p&gt;他的家有点乱，电脑也很低级。一点都不像工程师的家。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20220606</title>
       <link>https://00001011b.github.io/talk/20220606/</link>
       <pubDate>Mon, 06 Jun 2022 17:25:44 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220606/</guid>
-      <description>罗素先生认为，残酷打击别人是不好的。但他只能期望别人来同意这个看法，不能证明自己的正确。他还说，有很多看法，看似一种普遍的伦理原则，其实只是</description>
+      <description>&lt;p&gt;罗素先生认为，残酷打击别人是不好的。但他只能期望别人来同意这个看法，不能证明自己的正确。他还说，有很多看法，看似一种普遍的伦理原则，其实只是一种特殊的恳求。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20220603</title>
       <link>https://00001011b.github.io/talk/20220603/</link>
       <pubDate>Fri, 03 Jun 2022 09:40:40 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220603/</guid>
-      <description>今天是端午节。端午节快乐呀。 有一个人对自己说端午安康，我才刚刚要感动&amp;hellip;&amp;hellip;第二句话就是叫我帮忙了。 嗐&amp;hellip</description>
+      <description>&lt;p&gt;今天是端午节。端午节快乐呀。&lt;/p&gt;
+&lt;p&gt;有一个人对自己说端午安康，我才刚刚要感动&amp;hellip;&amp;hellip;第二句话就是叫我帮忙了。&lt;/p&gt;
+&lt;p&gt;嗐&amp;hellip;&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>2022060101</title>
       <link>https://00001011b.github.io/talk/2022060101/</link>
       <pubDate>Wed, 01 Jun 2022 16:27:54 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/2022060101/</guid>
-      <description>心生，则万法生。 心灭，则万法灭。</description>
+      <description>&lt;p&gt;心生，则万法生。&lt;/p&gt;
+&lt;p&gt;心灭，则万法灭。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20220601</title>
       <link>https://00001011b.github.io/talk/20220601/</link>
       <pubDate>Wed, 01 Jun 2022 15:04:20 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220601/</guid>
-      <description>昨天偷懒吃了两个粽子和三个芒果做午餐，外加可乐。爽是爽，但付出的代价太大了😭，直接晚饭都吃不得了。 肚子不舒服导致整个人都迷了。 看来偷懒不得。</description>
+      <description>&lt;p&gt;昨天偷懒吃了两个粽子和三个芒果做午餐，外加可乐。爽是爽，但付出的代价太大了😭，直接晚饭都吃不得了。&lt;/p&gt;
+&lt;p&gt;肚子不舒服导致整个人都迷了。&lt;/p&gt;
+&lt;p&gt;看来偷懒不得。&lt;/p&gt;
+&lt;p&gt;肚子不舒服的时候做下一个小小的决定：&lt;code&gt;以后不喝任何奇奇怪怪的东西了&lt;/code&gt;。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20220531</title>
       <link>https://00001011b.github.io/talk/20220531/</link>
       <pubDate>Tue, 31 May 2022 09:50:44 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220531/</guid>
-      <description>从二月份便开始就着手准备各种计划，然而最后发现什么都没做好。该有的学习进度没有，工作也是被局势推着走。 我的学习计划，饮食计划，工作计划呀&amp;h</description>
+      <description>&lt;p&gt;从二月份便开始就着手准备各种计划，然而最后发现什么都没做好。该有的学习进度没有，工作也是被局势推着走。&lt;/p&gt;
+&lt;p&gt;我的学习计划，饮食计划，工作计划呀&amp;hellip;&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20220529</title>
       <link>https://00001011b.github.io/talk/20220529/</link>
       <pubDate>Sun, 29 May 2022 11:44:15 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220529/</guid>
-      <description>刚去奶奶家那儿&amp;hellip;&amp;hellip;手机放家里充电，漏接了电话。😔 奶奶和我说了一个多小时的话。竟然听得我心服口服，归纳概括如下： 大</description>
+      <description>&lt;p&gt;刚去奶奶家那儿&amp;hellip;&amp;hellip;手机放家里充电，漏接了电话。😔&lt;/p&gt;
+&lt;p&gt;奶奶和我说了一个多小时的话。竟然听得我心服口服，归纳概括如下：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;大事情自己决定，不管谁说，都不要乱听。拿好自己的主意。🤓&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20220528</title>
       <link>https://00001011b.github.io/talk/20220528/</link>
       <pubDate>Sat, 28 May 2022 23:09:06 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220528/</guid>
-      <description>今天又和别人直击心底的聊天，而且乱评价别人。如何才能让自己学会闭嘴呢？😔</description>
+      <description>&lt;p&gt;今天又和别人直击心底的聊天，而且乱评价别人。如何才能让自己学会闭嘴呢？😔&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>2022052702</title>
       <link>https://00001011b.github.io/talk/2022052702/</link>
       <pubDate>Fri, 27 May 2022 12:40:36 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/2022052702/</guid>
-      <description>刚刚眼皮直跳，才想起自己原来一直很迷行。如何面对福与祸呢？也许《心经》能帮到我吧。</description>
+      <description>&lt;p&gt;刚刚眼皮直跳，才想起自己原来一直很迷行。如何面对福与祸呢？也许《心经》能帮到我吧。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>2022052701</title>
       <link>https://00001011b.github.io/talk/2022052701/</link>
       <pubDate>Fri, 27 May 2022 08:36:46 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/2022052701/</guid>
-      <description>长大后发现，勇敢，诚恳，坚定，要做好这些，难如登天。</description>
+      <description>&lt;p&gt;长大后发现，勇敢，诚恳，坚定，要做好这些，难如登天。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20220527</title>
       <link>https://00001011b.github.io/talk/20220527/</link>
       <pubDate>Fri, 27 May 2022 08:06:55 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220527/</guid>
-      <description>这是我这里的第一条说说，她主要被用来测试页面样式。个人认为还是有些许纪念意义的。为了测试目的，后面的字都是继承于废物文学，凑字数的。😉 若为自</description>
+      <description>&lt;p&gt;这是我这里的第一条说说，她主要被用来测试页面样式。个人认为还是有些许纪念意义的。为了测试目的，后面的字都是继承于废物文学，凑字数的。😉&lt;/p&gt;
+&lt;p&gt;若为自由故，二者皆可抛。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>20220428</title>
       <link>https://00001011b.github.io/talk/20220428/</link>
       <pubDate>Thu, 28 Apr 2022 22:35:13 +0800</pubDate>
-      
       <guid>https://00001011b.github.io/talk/20220428/</guid>
-      <description>我要读书👓</description>
+      <description>&lt;p&gt;我要读书👓&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

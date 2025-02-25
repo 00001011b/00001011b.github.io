@@ -5,11 +5,13 @@
     <link>https://00001011b.github.io/posts/</link>
     <description>Recent content in Posts on 落魄山</description>
     <image>
+      <title>落魄山</title>
       <url>https://00001011b.github.io/images/author.jpg</url>
       <link>https://00001011b.github.io/images/author.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.144.1</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 22 Aug 2024 01:32:26 +0800</lastBuildDate><atom:link href="https://00001011b.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://00001011b.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
