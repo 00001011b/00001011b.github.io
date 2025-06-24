@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Channel on 落魄山</title>
+    <link>https://00001011b.github.io/tags/channel/</link>
+    <description>Recent content in Channel on 落魄山</description>
+    <image>
+      <title>落魄山</title>
+      <url>https://00001011b.github.io/images/author.jpg</url>
+      <link>https://00001011b.github.io/images/author.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 24 Jun 2025 23:43:34 +0800</lastBuildDate>
+    <atom:link href="https://00001011b.github.io/tags/channel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>为什么由发送方关闭channel</title>
+      <link>https://00001011b.github.io/posts/tech/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%B1%E5%8F%91%E9%80%81%E6%96%B9%E5%85%B3%E9%97%ADchannel/</link>
+      <pubDate>Tue, 24 Jun 2025 23:43:34 +0800</pubDate>
+      <guid>https://00001011b.github.io/posts/tech/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%B1%E5%8F%91%E9%80%81%E6%96%B9%E5%85%B3%E9%97%ADchannel/</guid>
+      <description>&lt;p&gt;在 Go 的并发模型中，&lt;strong&gt;“由发送方关闭 Channel”&lt;/strong&gt; 的设计原则是为了解决一个经典的并发竞态问题。我们可以通过以下场景深入理解其必要性：&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;竞态问题的本质&#34;&gt;竞态问题的本质&lt;/h3&gt;
+&lt;p&gt;假设存在 &lt;strong&gt;多发送方（Sender）和多接收方（Receiver）&lt;/strong&gt; 的场景：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>如何理解同步阻塞通信</title>
+      <link>https://00001011b.github.io/posts/tech/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E5%90%8C%E6%AD%A5%E9%98%BB%E5%A1%9E%E9%80%9A%E4%BF%A1/</link>
+      <pubDate>Tue, 24 Jun 2025 23:41:15 +0800</pubDate>
+      <guid>https://00001011b.github.io/posts/tech/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E5%90%8C%E6%AD%A5%E9%98%BB%E5%A1%9E%E9%80%9A%E4%BF%A1/</guid>
+      <description>&lt;p&gt;在 CSP（Communicating Sequential Processes）模型中，&lt;strong&gt;同步阻塞通信&lt;/strong&gt;是核心设计原则之一，它定义了进程间数据传递的严格时序约束。以下通过多个维度深入解析这一机制的本质和意义：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Golang Channel</title>
+      <link>https://00001011b.github.io/posts/tech/golang-channel/</link>
+      <pubDate>Thu, 29 May 2025 11:48:07 +0800</pubDate>
+      <guid>https://00001011b.github.io/posts/tech/golang-channel/</guid>
+      <description>&lt;p&gt;从语言设计者的视角来看，Go 语言的 Channel 是并发编程范式的核心抽象，它基于 &lt;a href=&#34;../csp&#34;&gt;CSP（Communicating Sequential Processes）&lt;/a&gt;模型，旨在通过通信而非共享内存的方式简化并发控制。以下从设计理念、底层实现和语义特性三个维度展开分析：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>通信顺序进程</title>
+      <link>https://00001011b.github.io/posts/tech/csp/</link>
+      <pubDate>Sat, 24 May 2025 23:31:32 +0800</pubDate>
+      <guid>https://00001011b.github.io/posts/tech/csp/</guid>
+      <description>&lt;p&gt;CSP（Communicating Sequential Processes，通信顺序进程）是一种基于消息传递的并发编程模型，由计算机科学家Tony Hoare于1978年提出。其核心思想是通过&lt;strong&gt;通信而非共享内存&lt;/strong&gt;实现进程间的协作，解决了传统并发模型中锁竞争、死锁等问题。以下从理论基础、核心特性和应用场景三个维度展开：&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

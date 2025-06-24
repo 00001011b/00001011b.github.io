@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CSP on 落魄山</title>
+    <link>https://00001011b.github.io/tags/csp/</link>
+    <description>Recent content in CSP on 落魄山</description>
+    <image>
+      <title>落魄山</title>
+      <url>https://00001011b.github.io/images/author.jpg</url>
+      <link>https://00001011b.github.io/images/author.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 24 May 2025 23:31:32 +0800</lastBuildDate>
+    <atom:link href="https://00001011b.github.io/tags/csp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>通信顺序进程</title>
+      <link>https://00001011b.github.io/posts/tech/csp/</link>
+      <pubDate>Sat, 24 May 2025 23:31:32 +0800</pubDate>
+      <guid>https://00001011b.github.io/posts/tech/csp/</guid>
+      <description>&lt;p&gt;CSP（Communicating Sequential Processes，通信顺序进程）是一种基于消息传递的并发编程模型，由计算机科学家Tony Hoare于1978年提出。其核心思想是通过&lt;strong&gt;通信而非共享内存&lt;/strong&gt;实现进程间的协作，解决了传统并发模型中锁竞争、死锁等问题。以下从理论基础、核心特性和应用场景三个维度展开：&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
