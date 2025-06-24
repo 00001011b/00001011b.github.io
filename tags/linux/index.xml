@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linux on 落魄山</title>
+    <link>https://00001011b.github.io/tags/linux/</link>
+    <description>Recent content in Linux on 落魄山</description>
+    <image>
+      <title>落魄山</title>
+      <url>https://00001011b.github.io/images/author.jpg</url>
+      <link>https://00001011b.github.io/images/author.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 24 Jun 2025 23:58:05 +0800</lastBuildDate>
+    <atom:link href="https://00001011b.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>apt、apt-get和snap的区别</title>
+      <link>https://00001011b.github.io/posts/tech/apt%E4%B8%8Eapt-get%E7%9A%84%E5%8C%BA%E5%88%AB/</link>
+      <pubDate>Tue, 24 Jun 2025 23:58:05 +0800</pubDate>
+      <guid>https://00001011b.github.io/posts/tech/apt%E4%B8%8Eapt-get%E7%9A%84%E5%8C%BA%E5%88%AB/</guid>
+      <description>&lt;h3 id=&#34;一背景知识&#34;&gt;一、背景知识&lt;/h3&gt;
+&lt;p&gt;在基于 Debian 的 Linux 发行版中（如 Ubuntu、Kali、Linux Mint 等），软件的安装、更新和卸载主要通过 &lt;strong&gt;包管理器（Package Manager）&lt;/strong&gt; 来完成。这个包管理器使用 &lt;code&gt;.deb&lt;/code&gt; 格式的软件包。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
